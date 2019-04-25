@@ -1,5 +1,7 @@
-Projekt 2
+# Klikacz obrazkowy
 
 ---
 
-opis
+## opis
+
+### licencja
